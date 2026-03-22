@@ -1,0 +1,16 @@
+order_id,product_name,category,discount_percentage,rating,rating_count,price,quantity_sold
+ORD001,Phone A,Electronics,10,4.2,120,15000,30
+ORD002,Phone B,Electronics,25,4.5,340,18000,55
+ORD003,Laptop A,Electronics,15,4.0,210,55000,20
+ORD004,Shoes A,Fashion,40,4.3,500,3000,80
+ORD005,Shirt A,Fashion,35,3.8,150,1200,60
+ORD006,Watch A,Accessories,20,4.1,200,5000,40
+ORD007,Headphones A,Electronics,50,4.6,800,2500,90
+ORD008,Bag A,Fashion,30,4.0,220,2000,70
+ORD009,Shoes B,Fashion,60,4.7,900,3500,100
+ORD010,Laptop B,Electronics,10,3.9,180,60000,15
+ORD011,Phone C,Electronics,45,4.4,600,20000,75
+ORD012,Watch B,Accessories,15,3.7,90,4500,25
+ORD013,Headphones B,Electronics,55,4.8,950,3000,110
+ORD014,Shirt B,Fashion,20,3.5,80,1500,40
+ORD015,Bag B,Fashion,25,4.2,300,2500,65
